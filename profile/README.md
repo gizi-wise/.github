@@ -8,7 +8,7 @@ GiziWise is an app made by C23-PS450 students for Bangkit 2023 Capstone Project.
 
 <div align="center">
 
-Team ID: C23-PS450
+## C23-PS450
   
 | Name                                                 | Student ID    | Learning Path        |
 | ---------------------------------------------------- | ------------- | -------------------- |
@@ -49,11 +49,14 @@ Team ID: C23-PS450
 ### API Documentation (OpenAPI)
 [https://api.giziwise.my.id/docs](https://api.giziwise.my.id/docs/)
 
-## Machine Learning | (Machine Learning Model)
+## Machine Learning
 
 ### Repository
 [Machine Learning Repository](https://github.com/gizi-wise/gizi-wise-ML)
 
 ### Google Colab
 [https://drive.google.com/file/d/1nRXZxDDk83Jy7AUkeQ-yRl0N1iqSj7w5/edit](https://drive.google.com/file/d/1nRXZxDDk83Jy7AUkeQ-yRl0N1iqSj7w5/edit)
+
+### Model
+[model_dense.h5](https://github.com/gizi-wise/gizi-wise-backend/blob/image_prediction/model_dense.h5)
 
