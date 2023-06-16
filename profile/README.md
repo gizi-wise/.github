@@ -24,22 +24,36 @@ Team ID: C23-PS450
 ## Project Plan Document
 [Link Project Plan Document](https://drive.google.com/file/d/1cb8xm2wvgWF6ZUajYMQlpKq_CLebgsI6/view)
 
-## Mobile Development
-[Mobile Development Repository](https://github.com/gizi-wise/CapstoneProject-GiziWise)
-
-## Cloud Computing
-[Cloud Computing Repository](https://github.com/gizi-wise/gizi-wise-backend)
-
-API Documentation: [https://api.giziwise.my.id/docs](https://api.giziwise.my.id/docs/)
-
-## Machine Learning | (Machine Learning Model)
-[Machine Learning Repository](https://github.com/gizi-wise/gizi-wise-ML)
-
 ## Logo Design
 [Link Logo Design](https://www.canva.com/design/DAFjG2a-dqk/WPWYAG0VTQD0yO1-7ZQ3Jg/view)
 
-## App Design
+## Mobile Development
+
+### Repository
+[Mobile Development Repository](https://github.com/gizi-wise/CapstoneProject-GiziWise)
+
+### App Design
 [Link APP Design](https://www.figma.com/file/fAfqcAsLlNM2jI2cAqgmDI/Capstone-Project---GiziWise?type=design&node-id=75-138&t=JABI28ZEhocK4ApP-0)
 
-## Download APK
+### Download APK
 [Gizi Wise APK (debug)](https://drive.google.com/file/d/1LHbXdwgzWy7z-eHqzJECnkHWBALlW4YS/view)
+
+## Cloud Computing
+
+### Repository
+[Cloud Computing Repository](https://github.com/gizi-wise/gizi-wise-backend)
+
+### API Base URL
+[https://api.giziwise.my.id/](https://api.giziwise.my.id/)
+
+### API Documentation (OpenAPI)
+[https://api.giziwise.my.id/docs](https://api.giziwise.my.id/docs/)
+
+## Machine Learning | (Machine Learning Model)
+
+### Repository
+[Machine Learning Repository](https://github.com/gizi-wise/gizi-wise-ML)
+
+### Google Colab
+[https://drive.google.com/file/d/1nRXZxDDk83Jy7AUkeQ-yRl0N1iqSj7w5/edit](https://drive.google.com/file/d/1nRXZxDDk83Jy7AUkeQ-yRl0N1iqSj7w5/edit)
+
