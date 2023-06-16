@@ -40,3 +40,6 @@ API Documentation: [https://api.giziwise.my.id/docs](https://api.giziwise.my.id/
 
 ## App Design
 [Link APP Design](https://www.figma.com/file/fAfqcAsLlNM2jI2cAqgmDI/Capstone-Project---GiziWise?type=design&node-id=75-138&t=JABI28ZEhocK4ApP-0)
+
+## Download APK
+[Gizi Wise APK](https://drive.google.com/file/d/1pKc5tRff564qiw40Nhj8teGe9ivA2xkd/view)
