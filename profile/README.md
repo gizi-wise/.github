@@ -1,6 +1,6 @@
 <div align="center"><img src="https://i.ibb.co/qsD9qPx/Screenshot-20230616-164939.png" alt="Gizi Wise Logo" border="0" height="400"></div>
 
-# Welcome to the Official Repository of GiziWise
+# Welcome to the Official Organization of GiziWise
 
 GiziWise is an app made by C23-PS450 students for Bangkit 2023 Capstone Project. GiziWise is an application that helps people discover the composition and nutritional content of food and beverages by capturing images through the camera or gallery. These images are then analyzed, providing detailed information about the uploaded pictures within the GiziWise application. Moreover, users can also find articles and recipes of healthy food.
 
